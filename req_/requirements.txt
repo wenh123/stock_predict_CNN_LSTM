@@ -1,0 +1,8 @@
+mlflow                 == 1.18.0
+tqdm                   == 4.61.2
+matplotlib             == 3.4.2
+#TA-Lib                 == 0.4.15
+bayesian-optimization  == 1.2.0
+tensorflow             == 2.5.0
+seaborn                == 0.11.1
+ipywidgets             == 7.6.3

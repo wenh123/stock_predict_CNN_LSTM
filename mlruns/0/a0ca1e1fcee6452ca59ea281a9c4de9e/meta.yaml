@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Yetta%20Chen/Documents/stock_predict_CNN_LSTM/mlruns/0/a0ca1e1fcee6452ca59ea281a9c4de9e/artifacts
+end_time: 1627814848890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a0ca1e1fcee6452ca59ea281a9c4de9e
+run_uuid: a0ca1e1fcee6452ca59ea281a9c4de9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627814803813
+status: 3
+tags: []
+user_id: Yetta Chen
