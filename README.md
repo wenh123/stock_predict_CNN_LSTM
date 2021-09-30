@@ -65,9 +65,10 @@ class3 內 .ipynb 為3分類 CNN/LSTM 比較與優化實驗進程可參照
 | 1019_USO.cvs     | 美國石油指數基金     | 每日     | 2010/01/01  | 2019/12/31 |
   
 ## Cite the paper
-----
+
 If this repository, the paper or any of its content is useful for your research, please cite:
-  @article{CHEN2021107760,
+```  
+@article{CHEN2021107760,
 title = {Constructing a stock-price forecast CNN model with gold and crude oil indicators},
 journal = {Applied Soft Computing},
 volume = {112},
@@ -79,3 +80,4 @@ url = {https://www.sciencedirect.com/science/article/pii/S1568494621006815},
 author = {Yu-Chen Chen and Wen-Chen Huang},
 keywords = {Stock price forecast, Deep learning, Convolutional neural networks, Long short-term memory, Bayesian optimization},
 }
+```
