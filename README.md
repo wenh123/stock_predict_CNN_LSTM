@@ -56,7 +56,7 @@ The 3-class classification with CNN/LSTM comparison and optimization experiment 
 
 ## Data
 
-資料集來源: https://finance.yahoo.com/
+Data Source: https://finance.yahoo.com/
 
 The following describes each file data set and data interval:
 
